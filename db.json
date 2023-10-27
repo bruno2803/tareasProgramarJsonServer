@@ -1,0 +1,15 @@
+{
+    "Tareas": [
+      { "id": 1, "title": "Diseño de pagina", "description": "Maquetar el diseño de la web", "tiempo": "1 semana", "estado": 2,"responsable": "Romina",  "image":"https://img.freepik.com/psd-gratis/maqueta-dispositivo-digital_53876-91374.jpg?w=740&t=st=1698291104~exp=1698291704~hmac=0ba9b6365172942caa68d0fc5a9af565bd5ad48ff0bb435aaa95dfe471e2c048" },
+      { "id": 2, "title": "Codificación", "description": "Proceder a codificar el proyecto", "tiempo": "4 semanas","estado": 1, "responsable": "Diego",  "image":"https://img.freepik.com/foto-gratis/hombre-que-trabaja-altas-horas-noche-escribiendo-computadora-portatil-interiores-generada-inteligencia-artificial_24640-131235.jpg?w=900&t=st=1698290927~exp=1698291527~hmac=d89f8767a2448fada16494f8b2902caf3437966f771fb3fde6186d11965b2a53" },
+      { "id": 3, "title": "Testing", "description": "Realizar pruebas a todo el sistema", "tiempo": "10 dias", "estado": 3, "responsable": "Florencia", "image": "https://img.freepik.com/foto-gratis/hombre-trabajando-innovaciones-energeticas-su-portatil_23-2148820170.jpg?w=740&t=st=1698291165~exp=1698291765~hmac=2455095f16b3aec7ec963ee583affa3fba4fbebe502c44d2a5568e90b3c3ea57" }
+    ],
+    "category": [
+      { "id": 1, "description":"Por hacer"},
+      { "id": 2, "description":"Realizada"},
+      { "id": 3, "description":"Interrumpida"}
+
+
+    ]
+    
+  }
